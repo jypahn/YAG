@@ -21,11 +21,12 @@ Flutter, Google Map api, Google Ml Kit
 • 복용 시간에 맞춰서 알람 설정이 가능합니다.<br/>
  <br/>
   <br/>
-**2. 처방전 인식으로 약 성분 검색<br/>**
+  
+**2. 처방전 인식으로 약 성분 검색**<br/>
 <br/>
 <img src="https://github.com/jypahn/jipdong/assets/142571208/51fc9ec7-b006-43dc-946d-9cf6458fa684" width="200" height="400"/>
 <img src="https://github.com/jypahn/jipdong/assets/142571208/3676e90a-1d92-4930-af64-43adba099f74" width="200" height="400"/>
-<img src="https://github.com/jypahn/jipdong/assets/142571208/3f304d2f-3d81-4541-87dd-e33503cc8c04" width="200" height="400"/>
+<img src="https://github.com/jypahn/jipdong/assets/142571208/341e292d-832a-43eb-b56a-1dbb26d33250" width="200" height="400"/>
 
 <br/>
 <br/>
@@ -33,6 +34,7 @@ Flutter, Google Map api, Google Ml Kit
 • 복용 시간에 맞춰서 알람 설정이 가능합니다.<br/>
  <br/>
   <br/>
+  
 **3. 내 주변 약국 검색**<br/>
 <br/>
 <img src="https://github.com/jypahn/jipdong/assets/142571208/2d5bf562-b82c-4d0b-954e-ae60871dad7f" width="200" height="400"/>
